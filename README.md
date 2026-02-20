@@ -1,1 +1,2 @@
-# CodSoft_
+# CodSoft_task2
+password generator
